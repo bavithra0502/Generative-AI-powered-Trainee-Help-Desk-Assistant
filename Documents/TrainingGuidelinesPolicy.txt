@@ -1,0 +1,8 @@
+TRAINING GUIDELINES
+Trainees are expected to conduct themselves professionally during all training sessions and interactions.
+Trainees should keep their development environment, tools, and software updated as instructed by the trainer.
+Trainees should maintain organized notes and code repositories for easy reference during the program.
+Any training material, sample code, or documents provided are meant for learning purposes during the program.
+Trainees should communicate through the appropriate official channels for training-related queries.
+Feedback on training sessions, assignments, or projects should be shared constructively through the designated feedback process.
+Trainees should follow the schedule and timelines communicated by the training coordinator for sessions, assignments, and assessments.

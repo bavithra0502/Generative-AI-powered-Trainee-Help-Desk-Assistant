@@ -1,0 +1,8 @@
+LEARNING METHODOLOGY
+The training follows a hands-on, project-based learning methodology that combines concept explanation with immediate practical application.
+Each topic is generally introduced through a short theory session followed by a live coding demonstration.
+Trainees are encouraged to code along during demonstrations rather than only observing.
+Reference projects and sample applications are provided to help trainees understand real-world architecture and coding conventions.
+Trainees are encouraged to ask questions during sessions and to revisit recorded material or notes for topics that need reinforcement.
+Peer learning and discussion are encouraged, provided that individual assignment and project work remains the trainee's own.
+Trainees are advised to practice concepts outside of scheduled sessions to strengthen understanding and retention.

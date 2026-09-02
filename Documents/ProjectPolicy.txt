@@ -1,0 +1,9 @@
+PROJECT POLICY
+Trainees are assigned individual or group projects to apply the concepts learned during training in a practical setting.
+Project requirements, scope, and expected deliverables will be shared by the trainer at the start of the project.
+Trainees should maintain their project source code in a version control repository such as Git.
+Trainees are expected to follow the coding standards and architecture patterns shared during training, such as layered architecture.
+Projects should be tested thoroughly before submission, including checking for functional correctness and handling edge cases.
+Trainees should be prepared to explain their project design, code, and decisions during a project review or viva.
+Reusing reference project structures for learning purposes is allowed, but trainees must understand and be able to explain every part of their submitted project.
+Project submissions typically include source code, a database script, a README with setup instructions, and screenshots of the working application.

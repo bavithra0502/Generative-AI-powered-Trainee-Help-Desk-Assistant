@@ -1,0 +1,10 @@
+ASSIGNMENT POLICY
+Assignments are provided to help trainees practice the concepts learned during training.
+Trainees are expected to complete assignments within the specified deadline.
+Assignments should be completed by the trainee unless collaboration is specifically permitted.
+Trainees should understand the solution they submit.
+Copying another trainee's assignment or submitting someone else's work as their own is not permitted.
+Trainees should ask the trainer for clarification if they do not understand an assignment requirement.
+Assignments may be reviewed to evaluate technical understanding and practical skills.
+Late submission may affect assignment evaluation depending on the training guidelines.
+Trainees should test their applications before submitting assignments.

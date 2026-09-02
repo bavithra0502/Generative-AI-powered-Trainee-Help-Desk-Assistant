@@ -1,0 +1,7 @@
+TECHNICAL SUPPORT
+Trainees facing technical issues such as software installation problems, IDE errors, or environment setup issues should first check the setup documentation shared during training.
+If an issue persists, trainees should raise a technical support request with the trainer or training coordinator with a clear description of the problem, including any error messages or screenshots.
+Common technical issues include missing dependencies, incorrect SDK versions, database connection errors, and CORS-related errors between frontend and backend applications.
+Trainees are encouraged to try basic troubleshooting steps, such as restarting the application, checking configuration files, and reviewing error logs, before escalating an issue.
+Technical support is generally provided during working hours, and trainees should allow reasonable time for a response.
+Trainees should back up their project work regularly to avoid loss of progress due to technical issues.
